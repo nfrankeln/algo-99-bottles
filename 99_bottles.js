@@ -5,4 +5,5 @@ function bottleSong() {
   console.log(numBottles + ' bottles of beer on the wall!!!')
 };
 
+console.log('another message')
 bottleSong();
